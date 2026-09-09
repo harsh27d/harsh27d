@@ -1,20 +1,10 @@
 # Hi, I'm Harshdeep Damodhar 👋
 
-### Software Developer | Java & Python Enthusiast | Data Analytics
+# Software Developer | Java & Python Enthusiast | Data Analytics
 
 I'm currently an MCA student, passionate about Software Development, Backend Development, Data Analytics, and Problem Solving. I enjoy building practical applications, learning new technologies, and working on real-world projects.
 
-🎓 MCA Student
-☕ Interested in Java & Backend Development
-🌱 Currently Learning Spring Boot
-🐍 Working with Python & SQL
-📊 Exploring Data Analytics & Data Visualization
-💻 Focused on Building Real-World Applications
-🚀 Hackathon Participant & Project Builder
-Improve accuracy for problem solving
-Upgrade to Plus and use increased reasoning to solve multi-step problems carefully.
-Get Plus
----
+🎓 MCA Student ☕ Interested in Java & Backend Development 🌱 Learning Spring Boot 🐍 Working with Python & SQL 📊 Exploring Data Analytics & Data Visualization 💻 Focused on building real-world applications 🚀 Hackathon participant and project builder
 
 # 🛠️ Tech Stack
 
