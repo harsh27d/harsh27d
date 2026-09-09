@@ -2,15 +2,15 @@
 
 ### Software Developer | Java & Python Enthusiast | Data Analytics
 
-I'm a BCA graduate passionate about **Software Development, Backend Development, Data Analytics, and Problem Solving**. I enjoy building practical applications, learning new technologies, and working on real-world projects.
+I'm currently an MCA student, passionate about Software Development, Backend Development, Data Analytics, and Problem Solving. I enjoy building practical applications, learning new technologies, and working on real-world projects.
 
-* 🎓 BCA Graduate
-* ☕ Interested in **Java & Backend Development**
-* 🌱 Learning **Spring Boot**
-* 🐍 Working with **Python & SQL**
-* 📊 Exploring **Data Analytics & Data Visualization**
-* 💻 Interested in building real-world applications
-* 🚀 Hackathon participant and project builder
+🎓 MCA Student
+☕ Interested in Java & Backend Development
+🌱 Learning Spring Boot
+🐍 Working with Python & SQL
+📊 Exploring Data Analytics & Data Visualization
+💻 Focused on building real-world applications
+🚀 Hackathon participant and project builder
 
 ---
 
