@@ -6,12 +6,14 @@ I'm currently an MCA student, passionate about Software Development, Backend Dev
 
 🎓 MCA Student
 ☕ Interested in Java & Backend Development
-🌱 Learning Spring Boot
+🌱 Currently Learning Spring Boot
 🐍 Working with Python & SQL
 📊 Exploring Data Analytics & Data Visualization
-💻 Focused on building real-world applications
-🚀 Hackathon participant and project builder
-
+💻 Focused on Building Real-World Applications
+🚀 Hackathon Participant & Project Builder
+Improve accuracy for problem solving
+Upgrade to Plus and use increased reasoning to solve multi-step problems carefully.
+Get Plus
 ---
 
 # 🛠️ Tech Stack
