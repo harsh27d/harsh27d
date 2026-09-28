@@ -4,13 +4,13 @@
 
 I'm a BCA graduate passionate about **Software Development, Backend Development, Data Analytics, and Problem Solving**. I enjoy building practical applications, learning new technologies, and working on real-world projects.
 
-* 🎓 BCA Graduate
-* ☕ Interested in **Java & Backend Development**
-* 🌱 Learning **Spring Boot**
-* 🐍 Working with **Python & SQL**
-* 📊 Exploring **Data Analytics & Data Visualization**
-* 💻 Interested in building real-world applications
-* 🚀 Hackathon participant and project builder
+- 🎓 BCA Graduate
+- ☕ Interested in **Java & Backend Development**
+- 🌱 Learning **Spring Boot**
+- 🐍 Working with **Python & SQL**
+- 📊 Exploring **Data Analytics & Data Visualization**
+- 💻 Interested in building real-world applications
+- 🚀 Hackathon participant and project builder
 
 ---
 
@@ -94,11 +94,11 @@ A college-focused system designed to digitize college processes and improve tran
 
 ### Features
 
-* 🗳️ Student Election System
-* 🔐 Secure Voting
-* 📊 Live Election Results
-* 🏥 Health Notifications
-* 📝 Leave Management
+- 🗳️ Student Election System
+- 🔐 Secure Voting
+- 📊 Live Election Results
+- 🏥 Health Notifications
+- 📝 Leave Management
 
 **Tech Stack:**
 
@@ -124,25 +124,25 @@ Completed **120 hours of On-the-Job Training**, gaining practical industry expos
 
 # 📜 Certifications & Learning
 
-* ☕ Advanced Java
-* 📊 Deloitte Data Analytics
-* 🤖 Generative AI Workshop
-* 💼 TCS iON Career Edge — Interview & Job Readiness
-* 💻 CodeAlpha Virtual Internship
-* 🏢 Academic Internship — JK Innovative Pvt. Ltd.
+- ☕ Advanced Java
+- 📊 Deloitte Data Analytics
+- 🤖 Generative AI Workshop
+- 💼 TCS iON Career Edge — Interview & Job Readiness
+- 💻 CodeAlpha Virtual Internship
+- 🏢 Academic Internship — JK Innovative Pvt. Ltd.
 
 ---
 
 # 📚 Currently Learning
 
-* ☕ Advanced Java
-* 🌱 Spring Boot
-* 🐍 Python
-* 🗄️ Advanced SQL
-* 📊 Data Analytics
-* 📈 Tableau & Power BI
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Data Structures & Algorithms
+- ☕ Advanced Java
+- 🌱 Spring Boot
+- 🐍 Python
+- 🗄️ Advanced SQL
+- 📊 Data Analytics
+- 📈 Tableau & Power BI
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Data Structures & Algorithms
 
 ---
 
@@ -157,11 +157,28 @@ I'm interested in opportunities related to:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Harshdeep's GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Harshdeep's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Harshdeep's GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
+    alt="Harshdeep's GitHub Streak"
+  />
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Harshdeep's Top Languages"
+  />
 </p>
 
 ---
@@ -170,7 +187,10 @@ I'm interested in opportunities related to:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/harshdeep-damodhar27">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 </p>
 
