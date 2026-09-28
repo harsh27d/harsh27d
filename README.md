@@ -83,6 +83,7 @@ I'm a BCA graduate passionate about **Software Development, Backend Development,
 A blog platform developed using **Java and Spring Boot**, focusing on backend development and application functionality.
 
 **Tech Stack:**
+
 `Java` `Spring Boot` `MySQL` `HTML` `CSS` `JavaScript`
 
 ---
@@ -100,6 +101,7 @@ A college-focused system designed to digitize college processes and improve tran
 * 📝 Leave Management
 
 **Tech Stack:**
+
 `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
 ---
@@ -159,7 +161,7 @@ I'm interested in opportunities related to:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="Harshdeep's GitHub Streak" />
 </p>
 
 ---
